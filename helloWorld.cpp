@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  std::cout << "Hello Knife, I'm Spoon." << std::endl;
+  std::cout << "Hello Spoon, I'm Knife. Nice to meat you." << std::endl;
   return 0;
 }
